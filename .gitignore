@@ -1,1 +1,26 @@
+Python virtual environments
 
+This will stop your 'qc_env' folder from being uploaded
+
+qc_env/
+env/
+venv/
+.venv/
+
+Python cache files
+
+pycache/
+*.py[cod]
+*$py.class
+
+VS Code settings
+
+.vscode/
+
+Generated files
+
+We don't need to track the output, only the code
+
+results.json
+*.csv
+*.xlsx
