@@ -29,7 +29,7 @@ YFinace/
 ## How to Run
 Clone the Repository:
 ```
-git clone <your-repo-url>
+git clone https://github.com/nayanj2221/Quantum-Portfolio-Optimization-MVP-
 cd <your-repo-folder>
 ```
 Create a Virtual Environment :
