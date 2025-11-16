@@ -12,7 +12,7 @@ print("    Now importing 'data_pipeline'...")
 # --- Importing the module ---
 # We import the 'data_pipeline.py' file.
 # Python will read that file, but its if __name__ == "__main__" block WILL NOT run.
-# We assume 'data_pipeline.py' is either in the same folder or in a 'src' folder.
+
 
 # If 'data_pipeline.py' is inside a 'src' folder:
 try:
@@ -53,4 +53,5 @@ else:
     print("Project Failed: No data retrieved.")
 
 print("\n>>> 'main_project.py' finished.")
+
 # ...existing code...
